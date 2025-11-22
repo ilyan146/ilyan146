@@ -54,6 +54,7 @@ I build scalable data platforms, AI-driven applications, and high-performance cl
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 
 ### **Agentic AI & MLOps**
+![MCP](https://img.shields.io/badge/MCP-black?logo=modelcontextprotocol)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![Langgraph](https://img.shields.io/badge/Langraph-grey?logo=langgraph)
