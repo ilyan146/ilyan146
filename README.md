@@ -83,8 +83,8 @@ I build scalable data platforms, AI-driven applications, and high-performance cl
 
 ## 📫 Connect With Me
 
-* 🌐 **Portfolio:** *[My Projects](https://ilyan146.github.io/my_portfolio/)*
-* 🧊 **Web App** *[Streamlit PortfolioApp](https://ilyan146-my-portfolio-main-xzqh59.streamlit.app/)*
+* 🌐 **Apps:** *[My Apps Portfolio](https://ilyan146-my-portfolio-main-xzqh59.streamlit.app/)*
 * 💼 **LinkedIn:** *[Ilyan](https://www.linkedin.com/in/mohamedilyan/)*
 * ✉️ **Email:** *ilyan146@gmail.com*
+* ![GithubPages](https://img.shields.io/badge/GithubPages-black?logo=githubpages) **Portfolio:** *[My Page](https://ilyan146.github.io/my_portfolio/)*
 
